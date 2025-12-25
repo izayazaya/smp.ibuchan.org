@@ -1,0 +1,15 @@
+:root {
+  --yellow: #eaf270;
+  --green: #85e070;
+  --blue: #71b1e3;
+  --purple: #ef83e6;
+  --orange: #f69e44;
+  --pink: #ebb3ca;
+  --dark-pink: #ef5292;
+  --white: #f8f8f8;
+  --black: #333333;
+}
+
+body {
+  background-color: var(--pink);
+}
