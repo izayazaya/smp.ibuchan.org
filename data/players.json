@@ -1,7 +1,32 @@
 [
     {
+        "username": ".Rinnuuu",
+        "uuid": "00000000-0000-0000-0009-01f8428a0496",
+        "custom_texture": null
+    },
+    {
+        "username": "Cloudy",
+        "uuid": "e3e474b2-dddb-3cde-8662-921481ef3391",
+        "custom_texture": null
+    },
+    {
+        "username": "HiroXOXZ",
+        "uuid": "3116d611-22e7-3d63-8b6d-b4dc61597696",
+        "custom_texture": null
+    },
+    {
         "username": "Eveuxszzz",
         "uuid": "37176af3-a318-3366-bbda-a72f36378d9f",
+        "custom_texture": "http://textures.minecraft.net/texture/6dfd2f7672b02e06f882434299d72c0013c20dd9af1a838b10d40e22ee7f542b"
+    },
+    {
+        "username": "KDkades",
+        "uuid": "f1a0b0d0-0ea4-3601-a5d6-94124a4bc473",
+        "custom_texture": "http://textures.minecraft.net/texture/7cae0daab8627f081cc9b20545a4b141f7473fd83239a8c8981db3e617fb5104"
+    },
+    {
+        "username": ".Allonah4848",
+        "uuid": "00000000-0000-0000-0009-01f5eecdb0a3",
         "custom_texture": null
     },
     {
@@ -15,11 +40,6 @@
         "custom_texture": null
     },
     {
-        "username": "KDkades",
-        "uuid": "f1a0b0d0-0ea4-3601-a5d6-94124a4bc473",
-        "custom_texture": "http://textures.minecraft.net/texture/7cae0daab8627f081cc9b20545a4b141f7473fd83239a8c8981db3e617fb5104"
-    },
-    {
         "username": "E1weh",
         "uuid": "43c96e40-65d0-302f-a115-24dd952ed952",
         "custom_texture": null
@@ -28,11 +48,6 @@
         "username": "Mega_TNT",
         "uuid": "351b4ccf-5d55-3ddf-a034-118500339015",
         "custom_texture": "http://textures.minecraft.net/texture/f4efc2eff9fbe4938671c485f5f8b306549a65c32e0081d14508013f79b9a446"
-    },
-    {
-        "username": ".Rinnuuu",
-        "uuid": "00000000-0000-0000-0009-01f8428a0496",
-        "custom_texture": null
     },
     {
         "username": "JumerJums",
@@ -77,11 +92,6 @@
     {
         "username": "Sage_Holy",
         "uuid": "2624f449-cf5d-3313-b441-1804691cae70",
-        "custom_texture": null
-    },
-    {
-        "username": "HiroXOXZ",
-        "uuid": "3116d611-22e7-3d63-8b6d-b4dc61597696",
         "custom_texture": null
     },
     {
@@ -157,11 +167,6 @@
     {
         "username": ".d06nnise",
         "uuid": "00000000-0000-0000-0009-01f2fe7cfe8d",
-        "custom_texture": null
-    },
-    {
-        "username": ".Allonah4848",
-        "uuid": "00000000-0000-0000-0009-01f5eecdb0a3",
         "custom_texture": null
     },
     {
@@ -342,11 +347,6 @@
     {
         "username": ".Kawi4622",
         "uuid": "00000000-0000-0000-0009-01f4340eff1b",
-        "custom_texture": null
-    },
-    {
-        "username": "Cloudy",
-        "uuid": "e3e474b2-dddb-3cde-8662-921481ef3391",
         "custom_texture": null
     },
     {
