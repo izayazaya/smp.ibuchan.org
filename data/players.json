@@ -1,5 +1,10 @@
 [
     {
+        "username": "SquareBahgel",
+        "uuid": "4bb62782-41c6-31df-a687-ac11c489f194",
+        "custom_texture": null
+    },
+    {
         "username": "Mega_TNT",
         "uuid": "351b4ccf-5d55-3ddf-a034-118500339015",
         "custom_texture": null
@@ -12,11 +17,6 @@
     {
         "username": "NicoTensai",
         "uuid": "dd09bd20-a8bd-39f3-b4c3-c59be3a9a231",
-        "custom_texture": null
-    },
-    {
-        "username": "SquareBahgel",
-        "uuid": "4bb62782-41c6-31df-a687-ac11c489f194",
         "custom_texture": null
     },
     {
