@@ -1,72 +1,105 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const grid = document.getElementById("player-grid");
+    console.log("Script loaded, fetching players...");
+
+    const grid = document.getElementById("player-grid"); // Make sure your HTML grid ID matches this
     const countLabel = document.getElementById("player-count");
     const searchInput = document.getElementById("search-input");
 
-    // A reliable static fallback image (Official Mojang Steve)
-    // This is safer than calling an API that might be rate-limiting us.
-    const FALLBACK_IMAGE = "https://assets.mojang.com/SkinTemplates/steve.png";
+    // Default Fallback Skin
+    const FALLBACK_SKIN = "https://assets.mojang.com/SkinTemplates/steve.png";
 
-    let allPlayers = [];
-
-    // 1. Fetch the JSON data
     fetch("data/players.json")
-        .then((response) => response.json())
-        .then((data) => {
-            // Sort players alphabetically
-            allPlayers = data.sort((a, b) => a.username.localeCompare(b.username));
-            countLabel.textContent = allPlayers.length;
-            renderPlayers(allPlayers);
+        .then((response) => {
+            if (!response.ok) throw new Error("JSON file not found!");
+            return response.json();
         })
-        .catch((error) => console.error("Error loading players:", error));
+        .then((data) => {
+            console.log("Players loaded:", data.length);
 
-    // 2. Determine the correct Image URL
-    function getImageUrl(player) {
-        if (!player.texture_url) return FALLBACK_IMAGE;
+            // Sort A-Z
+            const sorted = data.sort((a, b) =>
+                a.username.localeCompare(b.username, undefined, {
+                    sensitivity: "base",
+                }),
+            );
 
-        // Premium Player (Visage)
-        if (player.texture_url.includes("visage.surgeplay.com")) {
-            return player.texture_url.replace("/skin/", "/bust/");
+            if (countLabel) countLabel.textContent = sorted.length;
+            renderPlayers(sorted);
+        })
+        .catch((error) => {
+            console.error("Error loading players:", error);
+            if (grid)
+                grid.innerHTML = `<p style="color:red">Error loading data/players.json</p>`;
+        });
+
+    function getSkinUrl(player) {
+        if (player.custom_texture && player.custom_texture.length > 5) {
+            let url = player.custom_texture;
+            if (url.startsWith("http://")) url = url.replace("http://", "https://");
+            return url;
         }
-
-        // Custom/Cracked Skin (Mineatar)
-        return `https://api.mineatar.io/bust/custom?url=${player.texture_url}`;
+        return `https://minotar.net/skin/${player.username}`;
     }
 
-    // 3. Render the Grid
     function renderPlayers(players) {
+        if (!grid) return;
         grid.innerHTML = "";
 
         players.forEach((player) => {
             const card = document.createElement("div");
             card.className = "card";
 
-            const imageUrl = getImageUrl(player);
+            const skinUrl = getSkinUrl(player);
 
-            // THE FIX:
-            // 1. 'this.onerror=null' prevents infinite looping if the fallback fails.
-            // 2. We set the src to a static Steve PNG (FALLBACK_IMAGE) on error,
-            //    which is much lighter than calling the API again.
-            card.innerHTML = `
-                <img 
-                    src="${imageUrl}" 
-                    alt="${player.username}" 
-                    loading="lazy" 
-                    onerror="this.onerror=null; this.src='${FALLBACK_IMAGE}';"
-                >
-                <span>${player.username}</span>
-            `;
+            // 1. Scene
+            const scene = document.createElement("div");
+            scene.className = "scene";
+
+            // 2. Cube
+            const cube = document.createElement("div");
+            cube.className = "cube";
+
+            // 3. Faces
+            const faces = ["front", "back", "right", "left", "top", "bottom"];
+
+            faces.forEach((faceName) => {
+                const face = document.createElement("div");
+                face.className = `face face-${faceName}`;
+                face.style.backgroundImage = `url('${skinUrl}')`;
+
+                // Background fail-safe
+                const imgTest = new Image();
+                imgTest.src = skinUrl;
+                imgTest.onerror = () => {
+                    console.warn(`Skin failed for ${player.username}, using fallback.`);
+                    face.style.backgroundImage = `url('${FALLBACK_SKIN}')`;
+                };
+
+                cube.appendChild(face);
+            });
+
+            scene.appendChild(cube);
+            card.appendChild(scene);
+
+            // 4. Name
+            const name = document.createElement("span");
+            name.textContent = player.username;
+            card.appendChild(name);
 
             grid.appendChild(card);
         });
     }
 
-    // 4. Search Functionality
-    searchInput.addEventListener("input", (e) => {
-        const term = e.target.value.toLowerCase();
-        const filtered = allPlayers.filter((p) =>
-            p.username.toLowerCase().includes(term),
-        );
-        renderPlayers(filtered);
-    });
+    if (searchInput) {
+        searchInput.addEventListener("input", (e) => {
+            // Re-fetch logic or filter logic here if needed
+            // For now, simpler to just hide elements or re-render
+            const term = e.target.value.toLowerCase();
+            const cards = grid.querySelectorAll(".card");
+            cards.forEach((card) => {
+                const name = card.querySelector("span").textContent.toLowerCase();
+                card.style.display = name.includes(term) ? "block" : "none";
+            });
+        });
+    }
 });

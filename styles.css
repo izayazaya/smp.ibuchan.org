@@ -67,49 +67,127 @@ header p {
 /* The Grid */
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
   gap: 20px;
   margin-top: 40px;
 }
 
-/* Player Cards */
-.card img {
-  /* FIXED DIMENSIONS: Prevents layout jumping */
-  width: 64px;
-  height: 64px;
-  /* Force square initially to prevent collapse */
-  object-fit: contain;
-  /* Keeps the bust aspect ratio inside the square */
+/* --- PLAYER CARD --- */
+.card {
+  background: var(--card-bg);
+  border: 1px solid #444;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+  transition:
+    transform 0.2s,
+    background-color 0.2s;
+  position: relative;
 
-  image-rendering: pixelated;
-  filter: drop-shadow(0 5px 5px rgba(0, 0, 0, 0.3));
-  margin-bottom: 15px;
-
-  /* Placeholder background while loading */
-  background-color: #333;
-  border-radius: 4px;
+  /* CRITICAL: Allows the 3D element to 'pop' */
+  perspective: 800px;
+  transform-style: preserve-3d;
 }
 
 .card:hover {
   transform: translateY(-5px);
   background: #333;
-  border-color: #555;
-}
-
-.card img {
-  /* Fixed width, auto height for the Bust render */
-  width: 64px;
-  height: auto;
-  max-height: 80px;
-
-  image-rendering: pixelated;
-  /* Keeps it sharp */
-  filter: drop-shadow(0 5px 5px rgba(0, 0, 0, 0.3));
-  margin-bottom: 15px;
+  border-color: #666;
 }
 
 .card span {
+  display: block;
+  margin-top: 15px;
   font-weight: 700;
-  font-size: 0.9rem;
+  font-size: 1.1rem;
   word-break: break-word;
+  color: var(--text-color);
+  position: relative;
+  z-index: 10;
+}
+
+/* --- 3D ISOMETRIC HEAD ENGINE --- */
+
+.scene {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+  position: relative;
+  transform-style: preserve-3d;
+
+  /* Force it to occupy space even if empty */
+  min-height: 64px;
+  display: block;
+
+  /* Isometric View */
+  transform: rotateX(-20deg) rotateY(-35deg);
+  transition: transform 0.4s ease;
+}
+
+.card:hover .scene {
+  transform: rotateX(-10deg) rotateY(-50deg) scale(1.1);
+}
+
+.cube {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  transform-style: preserve-3d;
+}
+
+.face {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+
+  /* Default Color: Dark Grey (Visible if image fails) */
+  background-color: #222;
+  border: 0.5px solid rgba(0, 0, 0, 0.2);
+  /* Slight outline to define edges */
+
+  /* Pixel Perfect Rendering */
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+
+  background-repeat: no-repeat;
+
+  /* SCALING MATH: 
+     Skin file is 64px wide. Head face is 8px.
+     Scale = 8x. 
+     64px * 8 = 512px.
+  */
+  background-size: 512px;
+}
+
+/* --- FACE MAPPING --- */
+/* Z-Translate is half of width (32px) */
+
+.face-front {
+  transform: rotateY(0deg) translateZ(32px);
+  background-position: -64px -64px;
+}
+
+.face-back {
+  transform: rotateY(180deg) translateZ(32px);
+  background-position: -192px -64px;
+}
+
+.face-right {
+  transform: rotateY(90deg) translateZ(32px);
+  background-position: -128px -64px;
+}
+
+.face-left {
+  transform: rotateY(-90deg) translateZ(32px);
+  background-position: 0px -64px;
+}
+
+.face-top {
+  transform: rotateX(90deg) translateZ(32px);
+  background-position: -64px 0px;
+}
+
+.face-bottom {
+  transform: rotateX(-90deg) translateZ(32px);
+  background-position: -128px 0px;
 }
