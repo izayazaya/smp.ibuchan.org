@@ -1,5 +1,9 @@
 [
     {
+        "username": "Pochi",
+        "texture_url": "https://visage.surgeplay.com/skin/Pochi"
+    },
+    {
         "username": ".SleepyCone94617",
         "texture_url": "https://visage.surgeplay.com/skin/.SleepyCone94617"
     },
@@ -454,10 +458,6 @@
     {
         "username": "pochi",
         "texture_url": "https://visage.surgeplay.com/skin/pochi"
-    },
-    {
-        "username": "Pochi",
-        "texture_url": "https://visage.surgeplay.com/skin/Pochi"
     },
     {
         "username": "JyroLucero",
