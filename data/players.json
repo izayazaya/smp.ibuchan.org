@@ -1,5 +1,15 @@
 [
     {
+        "username": ".NicoTensai",
+        "uuid": "00000000-0000-0000-0009-01f8969d005e",
+        "custom_texture": null
+    },
+    {
+        "username": "NicoTensai",
+        "uuid": "dd09bd20-a8bd-39f3-b4c3-c59be3a9a231",
+        "custom_texture": null
+    },
+    {
         "username": "SquareBahgel",
         "uuid": "4bb62782-41c6-31df-a687-ac11c489f194",
         "custom_texture": null
@@ -197,11 +207,6 @@
     {
         "username": "drc2ei",
         "uuid": "cdb8ace8-151b-3e5b-a284-4c0627034d83",
-        "custom_texture": null
-    },
-    {
-        "username": ".NicoTensai",
-        "uuid": "00000000-0000-0000-0009-01f8969d005e",
         "custom_texture": null
     },
     {
@@ -637,11 +642,6 @@
     {
         "username": "Thaimuay",
         "uuid": "6bbc6d2e-dfe3-3858-ab51-87c55fe5868e",
-        "custom_texture": null
-    },
-    {
-        "username": "NicoTensai",
-        "uuid": "dd09bd20-a8bd-39f3-b4c3-c59be3a9a231",
         "custom_texture": null
     },
     {
