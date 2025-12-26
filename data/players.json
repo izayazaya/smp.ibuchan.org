@@ -1,5 +1,9 @@
 [
     {
+        "username": "zonefold",
+        "texture_url": "https://visage.surgeplay.com/skin/fe6da8998bf8385e96b043d2977dbf7d"
+    },
+    {
         "username": "SquareBahgel",
         "texture_url": "https://visage.surgeplay.com/skin/4bb6278241c631dfa687ac11c489f194"
     },
@@ -26,10 +30,6 @@
     {
         "username": "DwainZ9",
         "texture_url": "https://visage.surgeplay.com/skin/689df348626835dfbd94ad213df865c8"
-    },
-    {
-        "username": "zonefold",
-        "texture_url": "https://visage.surgeplay.com/skin/fe6da8998bf8385e96b043d2977dbf7d"
     },
     {
         "username": "Sage_Holy",
