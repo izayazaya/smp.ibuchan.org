@@ -1,5 +1,25 @@
 [
     {
+        "username": "Witzzzki",
+        "uuid": "0d5fbb41-3a06-327c-9f3f-063f0ce16aac",
+        "custom_texture": "http://textures.minecraft.net/texture/e3cc77b93534b3c2a747b0d4b55d8ceec49b47ae81ca50304655bc37c501bac5"
+    },
+    {
+        "username": "dogitoman",
+        "uuid": "7b7e332e-8a8e-3f26-9607-7a629a4420fe",
+        "custom_texture": null
+    },
+    {
+        "username": "totomnpalito",
+        "uuid": "5bb3297e-9372-3710-a4b2-e7bf2b65f8b8",
+        "custom_texture": "http://textures.minecraft.net/texture/4558a173087511a4a48853de71373ea8f502b04ecc776d4413a45393a0ea995c"
+    },
+    {
+        "username": ".Rinnuuu",
+        "uuid": "00000000-0000-0000-0009-01f8428a0496",
+        "custom_texture": null
+    },
+    {
         "username": "MercuryZhon",
         "uuid": "f05ebbb7-6fed-32ed-86b8-72b5f77ad97f",
         "custom_texture": null
@@ -15,24 +35,9 @@
         "custom_texture": null
     },
     {
-        "username": "totomnpalito",
-        "uuid": "5bb3297e-9372-3710-a4b2-e7bf2b65f8b8",
-        "custom_texture": "http://textures.minecraft.net/texture/4558a173087511a4a48853de71373ea8f502b04ecc776d4413a45393a0ea995c"
-    },
-    {
-        "username": "Witzzzki",
-        "uuid": "0d5fbb41-3a06-327c-9f3f-063f0ce16aac",
-        "custom_texture": "http://textures.minecraft.net/texture/e3cc77b93534b3c2a747b0d4b55d8ceec49b47ae81ca50304655bc37c501bac5"
-    },
-    {
         "username": "VesuvianYak931",
         "uuid": "6cc8955e-f970-331b-9531-ae904e4993f3",
         "custom_texture": "http://textures.minecraft.net/texture/5e999afeb619d2f95ae2267b9e818602980cba1a8b1a4983288559d9cdcedb69"
-    },
-    {
-        "username": ".Rinnuuu",
-        "uuid": "00000000-0000-0000-0009-01f8428a0496",
-        "custom_texture": null
     },
     {
         "username": "Rinnuuu",
@@ -52,11 +57,6 @@
     {
         "username": "Miraqt2446",
         "uuid": "b6649b6c-f5b0-37e4-8795-91bbf809cd82",
-        "custom_texture": null
-    },
-    {
-        "username": "dogitoman",
-        "uuid": "7b7e332e-8a8e-3f26-9607-7a629a4420fe",
         "custom_texture": null
     },
     {
