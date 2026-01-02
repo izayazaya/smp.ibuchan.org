@@ -1,12 +1,27 @@
 [
     {
-        "username": "Stalwart",
-        "uuid": "3dbc4a43-738a-37e9-affd-3b3c33205610",
+        "username": "Mega_TNT",
+        "uuid": "351b4ccf-5d55-3ddf-a034-118500339015",
+        "custom_texture": "http://textures.minecraft.net/texture/f4efc2eff9fbe4938671c485f5f8b306549a65c32e0081d14508013f79b9a446"
+    },
+    {
+        "username": ".SolvingAlpaca35",
+        "uuid": "00000000-0000-0000-0009-01ff84a169d6",
         "custom_texture": null
     },
     {
         "username": "Eldrin0616",
         "uuid": "92585298-1656-3a25-b6de-a870965238b0",
+        "custom_texture": null
+    },
+    {
+        "username": "HiroXOXZ",
+        "uuid": "3116d611-22e7-3d63-8b6d-b4dc61597696",
+        "custom_texture": null
+    },
+    {
+        "username": "Stalwart",
+        "uuid": "3dbc4a43-738a-37e9-affd-3b3c33205610",
         "custom_texture": null
     },
     {
@@ -115,11 +130,6 @@
         "custom_texture": null
     },
     {
-        "username": ".SolvingAlpaca35",
-        "uuid": "00000000-0000-0000-0009-01ff84a169d6",
-        "custom_texture": null
-    },
-    {
         "username": "Witzzzki",
         "uuid": "0d5fbb41-3a06-327c-9f3f-063f0ce16aac",
         "custom_texture": "http://textures.minecraft.net/texture/7d6991af65133f15e13442635140fc254fc254e98c99e845834c258a437be01"
@@ -180,11 +190,6 @@
         "custom_texture": null
     },
     {
-        "username": "HiroXOXZ",
-        "uuid": "3116d611-22e7-3d63-8b6d-b4dc61597696",
-        "custom_texture": null
-    },
-    {
         "username": ".SleepyCone94617",
         "uuid": "00000000-0000-0000-0009-01f878e85e3d",
         "custom_texture": null
@@ -193,11 +198,6 @@
         "username": "SleepyCone94617",
         "uuid": "0f87eed0-fd8c-3eb6-8a95-caf9da72b00c",
         "custom_texture": null
-    },
-    {
-        "username": "Mega_TNT",
-        "uuid": "351b4ccf-5d55-3ddf-a034-118500339015",
-        "custom_texture": "http://textures.minecraft.net/texture/f4efc2eff9fbe4938671c485f5f8b306549a65c32e0081d14508013f79b9a446"
     },
     {
         "username": "ISTANNISLAW",
