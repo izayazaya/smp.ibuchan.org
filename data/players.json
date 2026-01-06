@@ -1,13 +1,28 @@
 [
     {
-        "username": "zurkim",
-        "uuid": "53590e0f-2029-370d-84e6-ef06a104dd84",
+        "username": "Keita0910",
+        "uuid": "16acfae9-2691-32bf-889a-328130c8d07a",
         "custom_texture": null
     },
     {
-        "username": "Cloudy",
-        "uuid": "e3e474b2-dddb-3cde-8662-921481ef3391",
-        "custom_texture": "http://textures.minecraft.net/texture/71a7064af618ba6d5fddbde6a5b599dd35d51f34b2567a3a4c5a36e8798d8d12"
+        "username": "dogitoman",
+        "uuid": "7b7e332e-8a8e-3f26-9607-7a629a4420fe",
+        "custom_texture": "http://textures.minecraft.net/texture/e59c82180d263752d75d5177b0e888b910aaea15ecd441406b7ac7ff7df8e4bc"
+    },
+    {
+        "username": "Eldrin0616",
+        "uuid": "92585298-1656-3a25-b6de-a870965238b0",
+        "custom_texture": null
+    },
+    {
+        "username": "VoxDei",
+        "uuid": "19493ec5-dd75-377a-9822-9176ceb9edca",
+        "custom_texture": "http://textures.minecraft.net/texture/57a50934d6a0385165b6ad23d12dcc4730270aecb0277ba2ddf8efb6319b81d7"
+    },
+    {
+        "username": "DwainZ9",
+        "uuid": "689df348-6268-35df-bd94-ad213df865c8",
+        "custom_texture": null
     },
     {
         "username": "Mega_TNT",
@@ -15,9 +30,24 @@
         "custom_texture": "http://textures.minecraft.net/texture/f4efc2eff9fbe4938671c485f5f8b306549a65c32e0081d14508013f79b9a446"
     },
     {
-        "username": "Eldrin0616",
-        "uuid": "92585298-1656-3a25-b6de-a870965238b0",
+        "username": "JumerJums",
+        "uuid": "01aff3d0-d4e7-3f9f-8538-84f51f0bbd32",
+        "custom_texture": "http://textures.minecraft.net/texture/7500c0b8240768a3e1b3247c08226845e48f9990059f31db9dbef80810f25fdb"
+    },
+    {
+        "username": "zurkim",
+        "uuid": "53590e0f-2029-370d-84e6-ef06a104dd84",
         "custom_texture": null
+    },
+    {
+        "username": ".J_0_3_Y_rooo",
+        "uuid": "00000000-0000-0000-0009-01fb0e73c29c",
+        "custom_texture": null
+    },
+    {
+        "username": "Cloudy",
+        "uuid": "e3e474b2-dddb-3cde-8662-921481ef3391",
+        "custom_texture": "http://textures.minecraft.net/texture/71a7064af618ba6d5fddbde6a5b599dd35d51f34b2567a3a4c5a36e8798d8d12"
     },
     {
         "username": "Nookkii",
@@ -55,19 +85,9 @@
         "custom_texture": "http://textures.minecraft.net/texture/3bc05c464cca16fe100753347c4497d60bb790c5627fdfc751165e7693b14c0a"
     },
     {
-        "username": "dogitoman",
-        "uuid": "7b7e332e-8a8e-3f26-9607-7a629a4420fe",
-        "custom_texture": "http://textures.minecraft.net/texture/e59c82180d263752d75d5177b0e888b910aaea15ecd441406b7ac7ff7df8e4bc"
-    },
-    {
         "username": "KDkades",
         "uuid": "f1a0b0d0-0ea4-3601-a5d6-94124a4bc473",
         "custom_texture": "http://textures.minecraft.net/texture/7cae0daab8627f081cc9b20545a4b141f7473fd83239a8c8981db3e617fb5104"
-    },
-    {
-        "username": "JumerJums",
-        "uuid": "01aff3d0-d4e7-3f9f-8538-84f51f0bbd32",
-        "custom_texture": "http://textures.minecraft.net/texture/7500c0b8240768a3e1b3247c08226845e48f9990059f31db9dbef80810f25fdb"
     },
     {
         "username": "anderdwalter",
@@ -200,18 +220,8 @@
         "custom_texture": null
     },
     {
-        "username": "DwainZ9",
-        "uuid": "689df348-6268-35df-bd94-ad213df865c8",
-        "custom_texture": null
-    },
-    {
         "username": "mrkndmoon",
         "uuid": "23e9c120-a046-31de-b2c8-624b41ce48f3",
-        "custom_texture": null
-    },
-    {
-        "username": ".J_0_3_Y_rooo",
-        "uuid": "00000000-0000-0000-0009-01fb0e73c29c",
         "custom_texture": null
     },
     {
@@ -223,11 +233,6 @@
         "username": "Rylen",
         "uuid": "e9af42c0-2b71-38d2-8bc4-fba2f370463b",
         "custom_texture": "http://textures.minecraft.net/texture/9f9d48c8100fe3cbce371efd352418be01abe20607e83ed129c8461e0ae6a403"
-    },
-    {
-        "username": "Keita0910",
-        "uuid": "16acfae9-2691-32bf-889a-328130c8d07a",
-        "custom_texture": null
     },
     {
         "username": ".Miraqt2446",
