@@ -1,12 +1,22 @@
 [
     {
+        "username": ".ShadowNinja6785",
+        "uuid": "00000000-0000-0000-0009-01fd65ca527d",
+        "custom_texture": null
+    },
+    {
         "username": "Mega_TNT",
         "uuid": "351b4ccf-5d55-3ddf-a034-118500339015",
         "custom_texture": "http://textures.minecraft.net/texture/f4efc2eff9fbe4938671c485f5f8b306549a65c32e0081d14508013f79b9a446"
     },
     {
-        "username": ".ShadowNinja6785",
-        "uuid": "00000000-0000-0000-0009-01fd65ca527d",
+        "username": ".TATSUUU5065",
+        "uuid": "00000000-0000-0000-0009-01f8cd810c1f",
+        "custom_texture": null
+    },
+    {
+        "username": "TATSUUU5065",
+        "uuid": "65f4cc00-ce02-3fb9-858f-966bbfa21e34",
         "custom_texture": null
     },
     {
@@ -168,11 +178,6 @@
         "username": "d06nnise",
         "uuid": "cbfbe27b-9033-3d94-a987-dbcc8d831d4b",
         "custom_texture": "http://textures.minecraft.net/texture/3bc05c464cca16fe100753347c4497d60bb790c5627fdfc751165e7693b14c0a"
-    },
-    {
-        "username": ".TATSUUU5065",
-        "uuid": "00000000-0000-0000-0009-01f8cd810c1f",
-        "custom_texture": null
     },
     {
         "username": "snremassacre",
@@ -447,11 +452,6 @@
     {
         "username": "Illuminaa07",
         "uuid": "d8c944d2-b45e-3b3f-912a-edde53d02ad1",
-        "custom_texture": null
-    },
-    {
-        "username": "TATSUUU5065",
-        "uuid": "65f4cc00-ce02-3fb9-858f-966bbfa21e34",
         "custom_texture": null
     },
     {
