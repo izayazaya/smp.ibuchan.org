@@ -1,13 +1,28 @@
 [
     {
-        "username": "Mega_TNT",
-        "uuid": "351b4ccf-5d55-3ddf-a034-118500339015",
-        "custom_texture": "http://textures.minecraft.net/texture/f4efc2eff9fbe4938671c485f5f8b306549a65c32e0081d14508013f79b9a446"
-    },
-    {
         "username": ".Rinnuuu",
         "uuid": "00000000-0000-0000-0009-01f8428a0496",
         "custom_texture": null
+    },
+    {
+        "username": "Eldrin0616",
+        "uuid": "92585298-1656-3a25-b6de-a870965238b0",
+        "custom_texture": null
+    },
+    {
+        "username": "KDkades",
+        "uuid": "f1a0b0d0-0ea4-3601-a5d6-94124a4bc473",
+        "custom_texture": "http://textures.minecraft.net/texture/7cae0daab8627f081cc9b20545a4b141f7473fd83239a8c8981db3e617fb5104"
+    },
+    {
+        "username": "snremassacre",
+        "uuid": "5671e5cb-b84f-3708-9de1-f6adbb7e6569",
+        "custom_texture": null
+    },
+    {
+        "username": "Mega_TNT",
+        "uuid": "351b4ccf-5d55-3ddf-a034-118500339015",
+        "custom_texture": "http://textures.minecraft.net/texture/f4efc2eff9fbe4938671c485f5f8b306549a65c32e0081d14508013f79b9a446"
     },
     {
         "username": "Rinnuuu",
@@ -17,16 +32,6 @@
     {
         "username": "skelled_",
         "uuid": "40f0b745-071e-3b9a-83c6-77e1aef8d842",
-        "custom_texture": null
-    },
-    {
-        "username": "Eldrin0616",
-        "uuid": "92585298-1656-3a25-b6de-a870965238b0",
-        "custom_texture": null
-    },
-    {
-        "username": "snremassacre",
-        "uuid": "5671e5cb-b84f-3708-9de1-f6adbb7e6569",
         "custom_texture": null
     },
     {
@@ -138,11 +143,6 @@
         "username": ".NotRinnuuu",
         "uuid": "00000000-0000-0000-0009-01fb33aefb0c",
         "custom_texture": null
-    },
-    {
-        "username": "KDkades",
-        "uuid": "f1a0b0d0-0ea4-3601-a5d6-94124a4bc473",
-        "custom_texture": "http://textures.minecraft.net/texture/7cae0daab8627f081cc9b20545a4b141f7473fd83239a8c8981db3e617fb5104"
     },
     {
         "username": "E1weh",
