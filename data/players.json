@@ -5,14 +5,14 @@
         "custom_texture": null
     },
     {
-        "username": "E1weh",
-        "uuid": "43c96e40-65d0-302f-a115-24dd952ed952",
-        "custom_texture": null
-    },
-    {
         "username": "Nookkii",
         "uuid": "db4a2bf9-39e6-3642-bc21-eeb3feef0bc1",
         "custom_texture": "http://textures.minecraft.net/texture/71a7064af618ba6d5fddbde6a5b599dd35d51f34b2567a3a4c5a36e8798d8d12"
+    },
+    {
+        "username": "E1weh",
+        "uuid": "43c96e40-65d0-302f-a115-24dd952ed952",
+        "custom_texture": null
     },
     {
         "username": "Cloudy",
