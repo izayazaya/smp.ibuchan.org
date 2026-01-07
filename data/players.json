@@ -5,6 +5,21 @@
         "custom_texture": "http://textures.minecraft.net/texture/f4efc2eff9fbe4938671c485f5f8b306549a65c32e0081d14508013f79b9a446"
     },
     {
+        "username": "snremassacre",
+        "uuid": "5671e5cb-b84f-3708-9de1-f6adbb7e6569",
+        "custom_texture": null
+    },
+    {
+        "username": "anderdwalter",
+        "uuid": "cc115933-c97d-3ae7-8f44-a1105844743c",
+        "custom_texture": "http://textures.minecraft.net/texture/68ad05009ff6807e92704dd98e41c4f6473f110372d9b7f9a5a4419d11ea29d9"
+    },
+    {
+        "username": "JumerJums",
+        "uuid": "01aff3d0-d4e7-3f9f-8538-84f51f0bbd32",
+        "custom_texture": "http://textures.minecraft.net/texture/7500c0b8240768a3e1b3247c08226845e48f9990059f31db9dbef80810f25fdb"
+    },
+    {
         "username": "VesuvianYak931",
         "uuid": "6cc8955e-f970-331b-9531-ae904e4993f3",
         "custom_texture": "http://textures.minecraft.net/texture/5e999afeb619d2f95ae2267b9e818602980cba1a8b1a4983288559d9cdcedb69"
@@ -48,11 +63,6 @@
         "username": ".SleepyCone94617",
         "uuid": "00000000-0000-0000-0009-01f878e85e3d",
         "custom_texture": null
-    },
-    {
-        "username": "anderdwalter",
-        "uuid": "cc115933-c97d-3ae7-8f44-a1105844743c",
-        "custom_texture": "http://textures.minecraft.net/texture/e5a420e33a4e3ae44344f92410377265101179affa385b66e6305bb74d8c4ad1"
     },
     {
         "username": "Voidreigner",
@@ -130,11 +140,6 @@
         "custom_texture": null
     },
     {
-        "username": "JumerJums",
-        "uuid": "01aff3d0-d4e7-3f9f-8538-84f51f0bbd32",
-        "custom_texture": "http://textures.minecraft.net/texture/7500c0b8240768a3e1b3247c08226845e48f9990059f31db9dbef80810f25fdb"
-    },
-    {
         "username": "zurkim",
         "uuid": "53590e0f-2029-370d-84e6-ef06a104dd84",
         "custom_texture": null
@@ -192,11 +197,6 @@
     {
         "username": "jebe",
         "uuid": "0cc4abe2-ac2f-3191-a8d0-884374d93658",
-        "custom_texture": null
-    },
-    {
-        "username": "snremassacre",
-        "uuid": "5671e5cb-b84f-3708-9de1-f6adbb7e6569",
         "custom_texture": null
     },
     {
