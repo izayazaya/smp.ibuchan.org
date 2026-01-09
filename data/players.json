@@ -1,8 +1,8 @@
 [
     {
-        "username": "RizenXor",
-        "uuid": "f32eeeae-9075-3768-90f4-8a7b4c409542",
-        "custom_texture": null
+        "username": "Mega_TNT",
+        "uuid": "351b4ccf-5d55-3ddf-a034-118500339015",
+        "custom_texture": "http://textures.minecraft.net/texture/f4efc2eff9fbe4938671c485f5f8b306549a65c32e0081d14508013f79b9a446"
     },
     {
         "username": "Eldrin0616",
@@ -10,14 +10,29 @@
         "custom_texture": null
     },
     {
+        "username": ".NicoTensai",
+        "uuid": "00000000-0000-0000-0009-01f8969d005e",
+        "custom_texture": null
+    },
+    {
+        "username": "TungSahur",
+        "uuid": "57c7e01d-8343-343c-a621-b861939eed42",
+        "custom_texture": null
+    },
+    {
+        "username": "xlghx",
+        "uuid": "81328e77-8086-3d2b-acb4-9b2b73f8ed81",
+        "custom_texture": null
+    },
+    {
+        "username": "RizenXor",
+        "uuid": "f32eeeae-9075-3768-90f4-8a7b4c409542",
+        "custom_texture": null
+    },
+    {
         "username": "JumerJums",
         "uuid": "01aff3d0-d4e7-3f9f-8538-84f51f0bbd32",
         "custom_texture": "http://textures.minecraft.net/texture/7500c0b8240768a3e1b3247c08226845e48f9990059f31db9dbef80810f25fdb"
-    },
-    {
-        "username": "Mega_TNT",
-        "uuid": "351b4ccf-5d55-3ddf-a034-118500339015",
-        "custom_texture": "http://textures.minecraft.net/texture/f4efc2eff9fbe4938671c485f5f8b306549a65c32e0081d14508013f79b9a446"
     },
     {
         "username": "d06nnise",
@@ -187,11 +202,6 @@
     {
         "username": "Kinshin_91",
         "uuid": "097437af-34e1-3ab4-b75f-2904a8348162",
-        "custom_texture": null
-    },
-    {
-        "username": "TungSahur",
-        "uuid": "57c7e01d-8343-343c-a621-b861939eed42",
         "custom_texture": null
     },
     {
@@ -567,11 +577,6 @@
     {
         "username": "xin4xin",
         "uuid": "f61c25b5-2204-3972-b2c7-302a68c52afa",
-        "custom_texture": null
-    },
-    {
-        "username": ".NicoTensai",
-        "uuid": "00000000-0000-0000-0009-01f8969d005e",
         "custom_texture": null
     },
     {
