@@ -1,5 +1,10 @@
 [
     {
+        "username": "TungSahur",
+        "uuid": "57c7e01d-8343-343c-a621-b861939eed42",
+        "custom_texture": null
+    },
+    {
         "username": "Eldrin0616",
         "uuid": "92585298-1656-3a25-b6de-a870965238b0",
         "custom_texture": null
@@ -42,11 +47,6 @@
     {
         "username": "RizenXor",
         "uuid": "f32eeeae-9075-3768-90f4-8a7b4c409542",
-        "custom_texture": null
-    },
-    {
-        "username": "TungSahur",
-        "uuid": "57c7e01d-8343-343c-a621-b861939eed42",
         "custom_texture": null
     },
     {
