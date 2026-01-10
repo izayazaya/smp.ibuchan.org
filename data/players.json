@@ -1,7 +1,27 @@
 [
     {
+        "username": "dogitoman",
+        "uuid": "7b7e332e-8a8e-3f26-9607-7a629a4420fe",
+        "custom_texture": "http://textures.minecraft.net/texture/4af06f760edd370319beff5b34f21a6cd3c7ccbfd66e7d96f68b19f8a8485182"
+    },
+    {
         "username": "Eldrin0616",
         "uuid": "92585298-1656-3a25-b6de-a870965238b0",
+        "custom_texture": null
+    },
+    {
+        "username": ".J_0_3_Y_rooo",
+        "uuid": "00000000-0000-0000-0009-01fb0e73c29c",
+        "custom_texture": null
+    },
+    {
+        "username": ".Rinnuuu",
+        "uuid": "00000000-0000-0000-0009-01f8428a0496",
+        "custom_texture": null
+    },
+    {
+        "username": "HiroXOXZ",
+        "uuid": "3116d611-22e7-3d63-8b6d-b4dc61597696",
         "custom_texture": null
     },
     {
@@ -23,11 +43,6 @@
         "username": ".SleepyCone94617",
         "uuid": "00000000-0000-0000-0009-01f878e85e3d",
         "custom_texture": null
-    },
-    {
-        "username": "dogitoman",
-        "uuid": "7b7e332e-8a8e-3f26-9607-7a629a4420fe",
-        "custom_texture": "http://textures.minecraft.net/texture/4af06f760edd370319beff5b34f21a6cd3c7ccbfd66e7d96f68b19f8a8485182"
     },
     {
         "username": "Cloudy",
@@ -77,16 +92,6 @@
     {
         "username": "Yunara_Supremacy",
         "uuid": "b705aa11-c81a-3993-9bb1-cd8b840dd3fe",
-        "custom_texture": null
-    },
-    {
-        "username": ".Rinnuuu",
-        "uuid": "00000000-0000-0000-0009-01f8428a0496",
-        "custom_texture": null
-    },
-    {
-        "username": "HiroXOXZ",
-        "uuid": "3116d611-22e7-3d63-8b6d-b4dc61597696",
         "custom_texture": null
     },
     {
@@ -203,11 +208,6 @@
         "username": "KDkades",
         "uuid": "f1a0b0d0-0ea4-3601-a5d6-94124a4bc473",
         "custom_texture": "http://textures.minecraft.net/texture/7cae0daab8627f081cc9b20545a4b141f7473fd83239a8c8981db3e617fb5104"
-    },
-    {
-        "username": ".J_0_3_Y_rooo",
-        "uuid": "00000000-0000-0000-0009-01fb0e73c29c",
-        "custom_texture": null
     },
     {
         "username": ".Miraqt2446",
