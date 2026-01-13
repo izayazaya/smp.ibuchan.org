@@ -1,5 +1,20 @@
 [
     {
+        "username": "JumerJums",
+        "uuid": "01aff3d0-d4e7-3f9f-8538-84f51f0bbd32",
+        "custom_texture": "http://textures.minecraft.net/texture/7500c0b8240768a3e1b3247c08226845e48f9990059f31db9dbef80810f25fdb"
+    },
+    {
+        "username": ".RenjiYomo7839",
+        "uuid": "00000000-0000-0000-0009-01f118092f31",
+        "custom_texture": null
+    },
+    {
+        "username": "anderdwalter",
+        "uuid": "cc115933-c97d-3ae7-8f44-a1105844743c",
+        "custom_texture": "http://textures.minecraft.net/texture/40c1c1d55e15b7c21d6f2f329c69e9ec5178d0c878b62568ae862d1aad4146db"
+    },
+    {
         "username": "Mega_TNT",
         "uuid": "351b4ccf-5d55-3ddf-a034-118500339015",
         "custom_texture": "http://textures.minecraft.net/texture/f4efc2eff9fbe4938671c485f5f8b306549a65c32e0081d14508013f79b9a446"
@@ -12,11 +27,6 @@
     {
         "username": ".SleepyCone94617",
         "uuid": "00000000-0000-0000-0009-01f878e85e3d",
-        "custom_texture": null
-    },
-    {
-        "username": ".RenjiYomo7839",
-        "uuid": "00000000-0000-0000-0009-01f118092f31",
         "custom_texture": null
     },
     {
@@ -130,11 +140,6 @@
         "custom_texture": null
     },
     {
-        "username": "anderdwalter",
-        "uuid": "cc115933-c97d-3ae7-8f44-a1105844743c",
-        "custom_texture": "http://textures.minecraft.net/texture/40c1c1d55e15b7c21d6f2f329c69e9ec5178d0c878b62568ae862d1aad4146db"
-    },
-    {
         "username": "Sage_Holy",
         "uuid": "2624f449-cf5d-3313-b441-1804691cae70",
         "custom_texture": "http://textures.minecraft.net/texture/442e443bba4e0c5e66bc84f1baa4c37a7425c6e0ea2b035348e04ee04951de0a"
@@ -158,11 +163,6 @@
         "username": "RizenXor",
         "uuid": "f32eeeae-9075-3768-90f4-8a7b4c409542",
         "custom_texture": null
-    },
-    {
-        "username": "JumerJums",
-        "uuid": "01aff3d0-d4e7-3f9f-8538-84f51f0bbd32",
-        "custom_texture": "http://textures.minecraft.net/texture/7500c0b8240768a3e1b3247c08226845e48f9990059f31db9dbef80810f25fdb"
     },
     {
         "username": "omsim",
