@@ -1,5 +1,20 @@
 [
     {
+        "username": "VesuvianYak931",
+        "uuid": "6cc8955e-f970-331b-9531-ae904e4993f3",
+        "custom_texture": "http://textures.minecraft.net/texture/5e999afeb619d2f95ae2267b9e818602980cba1a8b1a4983288559d9cdcedb69"
+    },
+    {
+        "username": "Reiii03",
+        "uuid": "a296ebd7-e1a9-341a-9da1-371b77bd8c59",
+        "custom_texture": null
+    },
+    {
+        "username": "snremassacre",
+        "uuid": "5671e5cb-b84f-3708-9de1-f6adbb7e6569",
+        "custom_texture": null
+    },
+    {
         "username": "dogitoman",
         "uuid": "7b7e332e-8a8e-3f26-9607-7a629a4420fe",
         "custom_texture": "http://textures.minecraft.net/texture/9e917f348e077e9279ae6f9fe7b6a77293de12ac65874f11b566e36ebb2658d4"
@@ -8,11 +23,6 @@
         "username": "Nookkii",
         "uuid": "db4a2bf9-39e6-3642-bc21-eeb3feef0bc1",
         "custom_texture": null
-    },
-    {
-        "username": "VesuvianYak931",
-        "uuid": "6cc8955e-f970-331b-9531-ae904e4993f3",
-        "custom_texture": "http://textures.minecraft.net/texture/5e999afeb619d2f95ae2267b9e818602980cba1a8b1a4983288559d9cdcedb69"
     },
     {
         "username": "zonefold",
@@ -122,11 +132,6 @@
     {
         "username": "stephenczr",
         "uuid": "1171fdb7-7b7b-3d48-b38e-1b47baa79cee",
-        "custom_texture": null
-    },
-    {
-        "username": "Reiii03",
-        "uuid": "a296ebd7-e1a9-341a-9da1-371b77bd8c59",
         "custom_texture": null
     },
     {
@@ -427,11 +432,6 @@
     {
         "username": "novakangkong",
         "uuid": "ec528f53-a365-3fa3-adc5-be05f1993f2e",
-        "custom_texture": null
-    },
-    {
-        "username": "snremassacre",
-        "uuid": "5671e5cb-b84f-3708-9de1-f6adbb7e6569",
         "custom_texture": null
     },
     {
