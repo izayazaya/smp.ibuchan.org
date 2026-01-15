@@ -1,5 +1,10 @@
 [
     {
+        "username": "ABedrockNuB",
+        "uuid": "5a966d09-0ea1-3adf-bc1b-dc8f1774a7bb",
+        "custom_texture": "http://textures.minecraft.net/texture/a50d0ca8d07315f953954b1717bcf835f260d14e05c7b4a5ee88632ffea5ff16"
+    },
+    {
         "username": "Eldrin0616",
         "uuid": "92585298-1656-3a25-b6de-a870965238b0",
         "custom_texture": null
@@ -38,11 +43,6 @@
         "username": "SpyTheGoat911",
         "uuid": "081748be-e340-325b-843e-84d1de8eb108",
         "custom_texture": null
-    },
-    {
-        "username": "ABedrockNuB",
-        "uuid": "5a966d09-0ea1-3adf-bc1b-dc8f1774a7bb",
-        "custom_texture": "http://textures.minecraft.net/texture/a50d0ca8d07315f953954b1717bcf835f260d14e05c7b4a5ee88632ffea5ff16"
     },
     {
         "username": "B0otAh",
