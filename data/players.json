@@ -1,5 +1,20 @@
 [
     {
+        "username": "dogitoman",
+        "uuid": "7b7e332e-8a8e-3f26-9607-7a629a4420fe",
+        "custom_texture": "http://textures.minecraft.net/texture/e59c82180d263752d75d5177b0e888b910aaea15ecd441406b7ac7ff7df8e4bc"
+    },
+    {
+        "username": "Cloudy",
+        "uuid": "e3e474b2-dddb-3cde-8662-921481ef3391",
+        "custom_texture": "http://textures.minecraft.net/texture/71a7064af618ba6d5fddbde6a5b599dd35d51f34b2567a3a4c5a36e8798d8d12"
+    },
+    {
+        "username": "anderdwalter",
+        "uuid": "cc115933-c97d-3ae7-8f44-a1105844743c",
+        "custom_texture": "http://textures.minecraft.net/texture/81998890d7517569f9ea84a7d7fcba67bacb1009bc9b5d4157a1eb0c05177886"
+    },
+    {
         "username": "totomnpalito",
         "uuid": "5bb3297e-9372-3710-a4b2-e7bf2b65f8b8",
         "custom_texture": "http://textures.minecraft.net/texture/607adff9afdfd779d99f4dfd348d2c8d2d28abd9663b75e1f6616e2c79bbb3eb"
@@ -55,11 +70,6 @@
         "custom_texture": null
     },
     {
-        "username": "dogitoman",
-        "uuid": "7b7e332e-8a8e-3f26-9607-7a629a4420fe",
-        "custom_texture": "http://textures.minecraft.net/texture/e59c82180d263752d75d5177b0e888b910aaea15ecd441406b7ac7ff7df8e4bc"
-    },
-    {
         "username": "fammy001",
         "uuid": "41e1a3f3-9eaa-3d80-a947-ef571779adfa",
         "custom_texture": "http://textures.minecraft.net/texture/e3cc77b93534b3c2a747b0d4b55d8ceec49b47ae81ca50304655bc37c501bac5"
@@ -70,19 +80,9 @@
         "custom_texture": null
     },
     {
-        "username": "anderdwalter",
-        "uuid": "cc115933-c97d-3ae7-8f44-a1105844743c",
-        "custom_texture": "http://textures.minecraft.net/texture/83e6b5d85362e062a70e4889ee0811007d78aa8b0da2817e30cea2f712961bae"
-    },
-    {
         "username": "DwainZ9",
         "uuid": "689df348-6268-35df-bd94-ad213df865c8",
         "custom_texture": null
-    },
-    {
-        "username": "Cloudy",
-        "uuid": "e3e474b2-dddb-3cde-8662-921481ef3391",
-        "custom_texture": "http://textures.minecraft.net/texture/71a7064af618ba6d5fddbde6a5b599dd35d51f34b2567a3a4c5a36e8798d8d12"
     },
     {
         "username": ".TATSUUU5065",
