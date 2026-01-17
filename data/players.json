@@ -1,12 +1,27 @@
 [
     {
-        "username": ".SleepyCone94617",
-        "uuid": "00000000-0000-0000-0009-01f878e85e3d",
+        "username": "Kinshin_91",
+        "uuid": "097437af-34e1-3ab4-b75f-2904a8348162",
         "custom_texture": null
+    },
+    {
+        "username": "totomnpalito",
+        "uuid": "5bb3297e-9372-3710-a4b2-e7bf2b65f8b8",
+        "custom_texture": "http://textures.minecraft.net/texture/607adff9afdfd779d99f4dfd348d2c8d2d28abd9663b75e1f6616e2c79bbb3eb"
     },
     {
         "username": ".Rinnuuu",
         "uuid": "00000000-0000-0000-0009-01f8428a0496",
+        "custom_texture": null
+    },
+    {
+        "username": "shouriuri",
+        "uuid": "b61fd3f0-a7b4-3058-a506-f5c2f4342ce8",
+        "custom_texture": null
+    },
+    {
+        "username": ".SleepyCone94617",
+        "uuid": "00000000-0000-0000-0009-01f878e85e3d",
         "custom_texture": null
     },
     {
@@ -23,11 +38,6 @@
         "username": "Eldrin0616",
         "uuid": "92585298-1656-3a25-b6de-a870965238b0",
         "custom_texture": null
-    },
-    {
-        "username": "totomnpalito",
-        "uuid": "5bb3297e-9372-3710-a4b2-e7bf2b65f8b8",
-        "custom_texture": "http://textures.minecraft.net/texture/607adff9afdfd779d99f4dfd348d2c8d2d28abd9663b75e1f6616e2c79bbb3eb"
     },
     {
         "username": "snremassacre",
@@ -270,11 +280,6 @@
         "custom_texture": "http://textures.minecraft.net/texture/d860b42fa018921ee17ef4c413970ea42d76258046ebe31592c5cab85600e196"
     },
     {
-        "username": "shouriuri",
-        "uuid": "b61fd3f0-a7b4-3058-a506-f5c2f4342ce8",
-        "custom_texture": null
-    },
-    {
         "username": "Reiii03",
         "uuid": "a296ebd7-e1a9-341a-9da1-371b77bd8c59",
         "custom_texture": null
@@ -457,11 +462,6 @@
     {
         "username": "Atomic",
         "uuid": "d4a3d6da-5f2b-3499-8a81-3097ccda7f92",
-        "custom_texture": null
-    },
-    {
-        "username": "Kinshin_91",
-        "uuid": "097437af-34e1-3ab4-b75f-2904a8348162",
         "custom_texture": null
     },
     {
