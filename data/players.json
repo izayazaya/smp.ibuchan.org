@@ -1,5 +1,20 @@
 [
     {
+        "username": ".CloudyMC6008",
+        "uuid": "00000000-0000-0000-0009-01f43e441df6",
+        "custom_texture": null
+    },
+    {
+        "username": "",
+        "uuid": "fc5bc365-aedf-30a8-8b89-04e462e29bde",
+        "custom_texture": null
+    },
+    {
+        "username": ".SleepyCone94617",
+        "uuid": "00000000-0000-0000-0009-01f878e85e3d",
+        "custom_texture": null
+    },
+    {
         "username": "totomnpalito",
         "uuid": "5bb3297e-9372-3710-a4b2-e7bf2b65f8b8",
         "custom_texture": "http://textures.minecraft.net/texture/607adff9afdfd779d99f4dfd348d2c8d2d28abd9663b75e1f6616e2c79bbb3eb"
@@ -32,11 +47,6 @@
     {
         "username": "shouriuri",
         "uuid": "b61fd3f0-a7b4-3058-a506-f5c2f4342ce8",
-        "custom_texture": null
-    },
-    {
-        "username": ".SleepyCone94617",
-        "uuid": "00000000-0000-0000-0009-01f878e85e3d",
         "custom_texture": null
     },
     {
@@ -232,11 +242,6 @@
     {
         "username": ".Raidenji1733",
         "uuid": "00000000-0000-0000-0009-01f88d44eb40",
-        "custom_texture": null
-    },
-    {
-        "username": "",
-        "uuid": "fc5bc365-aedf-30a8-8b89-04e462e29bde",
         "custom_texture": null
     },
     {
@@ -477,11 +482,6 @@
     {
         "username": ".SolvingAlpaca35",
         "uuid": "00000000-0000-0000-0009-01ff84a169d6",
-        "custom_texture": null
-    },
-    {
-        "username": ".CloudyMC6008",
-        "uuid": "00000000-0000-0000-0009-01f43e441df6",
         "custom_texture": null
     },
     {
