@@ -1,5 +1,25 @@
 [
     {
+        "username": ".Rinnuuu",
+        "uuid": "68b691f7-758f-38d4-8854-788c8fac42f8",
+        "custom_texture": null
+    },
+    {
+        "username": "d06nnise",
+        "uuid": "cbfbe27b-9033-3d94-a987-dbcc8d831d4b",
+        "custom_texture": "http://textures.minecraft.net/texture/3bc05c464cca16fe100753347c4497d60bb790c5627fdfc751165e7693b14c0a"
+    },
+    {
+        "username": ".NotRinnuuu",
+        "uuid": "00000000-0000-0000-0009-01fb33aefb0c",
+        "custom_texture": null
+    },
+    {
+        "username": ".Rinnuuu",
+        "uuid": "00000000-0000-0000-0009-01f8428a0496",
+        "custom_texture": null
+    },
+    {
         "username": "SquareBahgel",
         "uuid": "4bb62782-41c6-31df-a687-ac11c489f194",
         "custom_texture": null
@@ -48,11 +68,6 @@
         "username": "B0otAh",
         "uuid": "dd797cbf-313f-347f-8845-6f6c716b68d2",
         "custom_texture": null
-    },
-    {
-        "username": "d06nnise",
-        "uuid": "cbfbe27b-9033-3d94-a987-dbcc8d831d4b",
-        "custom_texture": "http://textures.minecraft.net/texture/3bc05c464cca16fe100753347c4497d60bb790c5627fdfc751165e7693b14c0a"
     },
     {
         "username": "Vizier_",
@@ -107,11 +122,6 @@
     {
         "username": "Voidreigner",
         "uuid": "1085168c-b16d-3b4b-906e-0ebe4949b833",
-        "custom_texture": null
-    },
-    {
-        "username": ".Rinnuuu",
-        "uuid": "00000000-0000-0000-0009-01f8428a0496",
         "custom_texture": null
     },
     {
@@ -338,11 +348,6 @@
         "username": "Pr3rry",
         "uuid": "786c6939-b4bb-32bb-bdef-f076d1be4b3a",
         "custom_texture": "http://textures.minecraft.net/texture/d860b42fa018921ee17ef4c413970ea42d76258046ebe31592c5cab85600e196"
-    },
-    {
-        "username": ".NotRinnuuu",
-        "uuid": "00000000-0000-0000-0009-01fb33aefb0c",
-        "custom_texture": null
     },
     {
         "username": "not_kel",
@@ -842,11 +847,6 @@
     {
         "username": ".itsZeeelow",
         "uuid": "00000000-0000-0000-0009-01fe57921b3e",
-        "custom_texture": null
-    },
-    {
-        "username": ".Rinnuuu",
-        "uuid": "68b691f7-758f-38d4-8854-788c8fac42f8",
         "custom_texture": null
     },
     {
