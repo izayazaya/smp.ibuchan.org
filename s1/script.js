@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const countLabel = document.getElementById("player-count");
     const searchInput = document.getElementById("search-input");
 
-    fetch("data/players.json")
+    fetch("./data/players.json")
         .then((res) => res.json())
         .then((data) => {
             const sorted = data.sort((a, b) =>

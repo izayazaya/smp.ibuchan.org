@@ -5,7 +5,7 @@ const axios = require("axios");
 const crypto = require("crypto"); // Built-in for comparing file versions
 
 const RENDERS_DIR = "./renders";
-const HISTORY_DIR = "./renders/history"; // New folder for archive
+const HISTORY_DIR = "./renders/history";
 const PLAYERS_JSON = "./data/players.json";
 
 // Helper to get a quick hash of a file to see if the skin actually changed
@@ -42,7 +42,6 @@ async function run() {
         // --- SKIN RESOLUTION LOGIC ---
         let skinUrl =
             player.custom_texture || `https://minotar.net/skin/${player.username}`;
-        // (Add your Geyser/Bedrock logic back here as well)
 
         try {
             const response = await axios.get(skinUrl, {
