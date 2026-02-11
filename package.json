@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@magicyan/minecraft": "^0.0.4",
+    "axios": "^1.13.5",
+    "playwright": "^1.58.2",
+    "skinview3d": "^3.4.1"
+  }
+}
