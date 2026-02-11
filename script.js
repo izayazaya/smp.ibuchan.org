@@ -15,13 +15,14 @@ document.addEventListener("DOMContentLoaded", () => {
             grid.innerHTML = sorted
                 .map(
                     (player) => `
-                <div class="card">
-                    <img class="skin-render" 
-                         src="renders/${player.username}.png" 
-                         onerror="this.src='https://crafatar.com/renders/body/8667ba71-b85a-4004-af54-457a9734eed7?scale=10'">
-                    <span>${player.username}</span>
-                </div>
-            `,
+                    <div class="card">
+                        <img class="skin-render" 
+                             src="./renders/${encodeURIComponent(player.username)}.png" 
+                             loading="lazy"
+                             onerror="this.src='https://crafatar.com/renders/body/8667ba71-b85a-4004-af54-457a9734eed7?scale=10'">
+                        <span>${player.username}</span>
+                    </div>
+                `,
                 )
                 .join("");
         });
