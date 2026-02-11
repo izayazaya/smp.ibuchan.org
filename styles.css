@@ -1,0 +1,66 @@
+:root {
+    --yellow: #eaf270;
+    --green: #85e070;
+    --blue: #71b1e3;
+    --purple: #ef83e6;
+    --orange: #f69e44;
+    --pink: #ebb3ca;
+    --dark-pink: #ef5292;
+    --white: #f8f8f8;
+    --black: #333333;
+}
+
+html {
+    width: 100vw;
+    height: 100vh;
+}
+
+body {
+    background-image: url("./assets/images/bg1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 0px;
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
+}
+
+#bg-overlay {
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(at top,
+            rgba(248, 248, 248, 0.1) 0%,
+            rgba(0, 0, 0, 0.4) 75%,
+            rgba(0, 0, 0, 1) 100%);
+
+    /*linear-gradient(to bottom,
+            rgba(235, 179, 202, 0.4) 0%,
+            rgba(51, 51, 51, 0.8) 75%,
+            rgba(0, 0, 0, 1) 100%);*/
+}
+
+#header {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px 20%;
+    padding: 28px;
+}
+
+#header a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 1.2rem;
+    color: var(--white);
+    opacity: 0.7;
+    transition: 0.2s ease;
+}
+
+#header a:hover {
+    opacity: 0.85;
+    font-size: 1.4rem;
+}
+
+a {
+    text-decoration: none;
+}
