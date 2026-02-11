@@ -47,6 +47,18 @@ body {
     padding: 28px;
 }
 
+.header-content {
+    justify-content: space-between;
+}
+
+.fa-solid,
+.fa-brands {
+    padding-right: 8px;
+    color: var(--white);
+    opacity: 0.7;
+    transition: 0.2s ease;
+}
+
 #header a {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 500;
@@ -59,6 +71,36 @@ body {
 #header a:hover {
     opacity: 0.85;
     font-size: 1.4rem;
+}
+
+.home:hover i {
+    color: var(--yellow);
+    opacity: 1;
+}
+
+.wiki:hover i {
+    color: var(--green);
+    opacity: 1;
+}
+
+.rules:hover i {
+    color: var(--blue);
+    opacity: 1;
+}
+
+.guide:hover i {
+    color: var(--purple);
+    opacity: 1;
+}
+
+.stats:hover i {
+    color: var(--orange);
+    opacity: 1;
+}
+
+.art:hover i {
+    color: var(--pink);
+    opacity: 1;
 }
 
 a {
